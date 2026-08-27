@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+
+langgraph
+langchain-core
+
+langchain-openai
+langchain-deepseek
+langchain-google-genai
+
+chess
+
+pytest
+httpx
+
+psycopg[binary,pool]
+pydantic-settings
